@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Android , IOS , KMM, Jetpack , Clean Architecture, ARCore, Software Architecture**
 
-- 📫 How to reach me **kashismails@gmail.com**
+- 📫 How to reach me **wajahatiqbalwaji@gmail.com**
 
 - ⚡ Fun fact **I cant stop talking when it comes to Software architecture and Emerging technologies**
 
