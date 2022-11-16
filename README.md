@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Wajahat Iqbal</h1>
+<h3 align="center">A Software Engineer, In love with Kotlin.</h3>
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wajahat-iqbal&show_icons=true&locale=en" alt="wajahat-iqbal" /></p>
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajahat-iqbal&show_icons=true&locale=en&layout=compact" alt="wajahat-iqbal" /></p>
 
 <!--
 **wajahat-iqbal/wajahat-iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
