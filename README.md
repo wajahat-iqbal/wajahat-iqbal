@@ -49,3 +49,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajahat-iqbal" alt="wajahat-iqbal" /></p>
+
+[![Check out wajahat-iqbal's profile on stardev.io](https://stardev.io/developers/wajahat-iqbal/badge/languages/global.svg)](https://stardev.io/developers/wajahat-iqbal)
