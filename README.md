@@ -2,26 +2,10 @@
 <h3 align="center">A Software Engineer, In love with Kotlin.</h3>
 
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wajahat-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="wajahat-iqbal" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wajahat-iqbal" alt="wajahat-iqbal" /></a> </p>
-
-
-
 - 🔭 I’m currently working on [MARKAZ](https://play.google.com/store/apps/details?id=com.markaz.app)
-
-- 🌱 I’m currently learning **Compose Web**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wajahat-iqbal?tab=repositories](https://github.com/wajahat-iqbal?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@wajahatiqbalwaji](https://medium.com/@wajahatiqbalwaji)
-
-- 💬 Ask me about **Android , IOS , KMM, Jetpack , Clean Architecture, ARCore, Software Architecture**
-
-- 📫 How to reach me **wajahatiqbalwaji@gmail.com**
-
-- ⚡ Fun fact **I cant stop talking when it comes to Software architecture and Emerging technologies**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
